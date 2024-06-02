@@ -1,0 +1,14 @@
+C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioTestesUnitarios\TestesUnitarios.Desafio.Console\bin\Debug\net8.0\TestesUnitarios.Desafio.Console.exe
+C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioTestesUnitarios\TestesUnitarios.Desafio.Console\bin\Debug\net8.0\TestesUnitarios.Desafio.Console.deps.json
+C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioTestesUnitarios\TestesUnitarios.Desafio.Console\bin\Debug\net8.0\TestesUnitarios.Desafio.Console.runtimeconfig.json
+C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioTestesUnitarios\TestesUnitarios.Desafio.Console\bin\Debug\net8.0\TestesUnitarios.Desafio.Console.dll
+C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioTestesUnitarios\TestesUnitarios.Desafio.Console\bin\Debug\net8.0\TestesUnitarios.Desafio.Console.pdb
+C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioTestesUnitarios\TestesUnitarios.Desafio.Console\obj\Debug\net8.0\TestesUnitarios.Desafio.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioTestesUnitarios\TestesUnitarios.Desafio.Console\obj\Debug\net8.0\TestesUnitarios.Desafio.Console.AssemblyInfoInputs.cache
+C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioTestesUnitarios\TestesUnitarios.Desafio.Console\obj\Debug\net8.0\TestesUnitarios.Desafio.Console.AssemblyInfo.cs
+C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioTestesUnitarios\TestesUnitarios.Desafio.Console\obj\Debug\net8.0\TestesUnitarios.Desafio.Console.csproj.CoreCompileInputs.cache
+C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioTestesUnitarios\TestesUnitarios.Desafio.Console\obj\Debug\net8.0\TestesUnitarios.Desafio.Console.dll
+C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioTestesUnitarios\TestesUnitarios.Desafio.Console\obj\Debug\net8.0\refint\TestesUnitarios.Desafio.Console.dll
+C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioTestesUnitarios\TestesUnitarios.Desafio.Console\obj\Debug\net8.0\TestesUnitarios.Desafio.Console.pdb
+C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioTestesUnitarios\TestesUnitarios.Desafio.Console\obj\Debug\net8.0\TestesUnitarios.Desafio.Console.genruntimeconfig.cache
+C:\Users\abraa\OneDrive\Área de Trabalho\Bootcamp - DIO\.Net Developer\Projetos\DesafioTestesUnitarios\TestesUnitarios.Desafio.Console\obj\Debug\net8.0\ref\TestesUnitarios.Desafio.Console.dll
